@@ -3,7 +3,7 @@ import axios from 'axios';
 export const BASE_URL = 'https://ev-charge-api.onrender.com';
 
 // Set this to your real Razorpay TEST Key ID (dashboard.razorpay.com -> Settings -> API Keys)
-export const RAZORPAY_KEY_ID = 'rzp_test_XXXXXXXXXXXXXX';
+export const RAZORPAY_KEY_ID = 'rzp_test_TErEU8HQbHCIAb';
 
 const api = axios.create({ baseURL: BASE_URL });
 
